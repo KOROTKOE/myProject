@@ -56,8 +56,8 @@ div{
     height:auto;
 }
 .message{
-    padding-top: 1vw;
-    padding-left: 1vw;
-    width:80%;
-    height:auto;
+    background-color:white;
+    border-radius: .5em;
+    padding:0.1em 1em;
+    margin:0 1em 0.5em 1em;
 }
